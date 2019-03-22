@@ -1,0 +1,13 @@
+body {
+    background-image: url("background.png");
+    display: table-cell;
+    vertical-align: middle;
+}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
