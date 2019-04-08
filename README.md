@@ -1,3 +1,5 @@
+Due to difficulties with finding time, the below plans have been postponed. <br/>
+<br/>
 IMPORTANT<br/>
 I'm planning to fully rework this project, starting on April the 2nd, <br/>
 with sessions/filtering and database usage, since I rushed this assignment, <br/>
